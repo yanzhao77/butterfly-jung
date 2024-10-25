@@ -1,6 +1,6 @@
 # butterfly-jung
-### kill me my butterfly then you can be free
-***
+## kill me my butterfly then you can be free
+
 - [中文](README.md)
 - [English](README_EN.md)
   
