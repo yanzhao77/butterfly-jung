@@ -6,6 +6,7 @@
 
 *** 
 **基于 jung和netbeans创建漂亮的拓扑图和关系图。开箱即用，支持快速嵌入到第三方业务系统**
+
 本库是基于 [**vl-jung**](https://github.com/timboudreau/vl-jung).
 ***
 
